@@ -4,7 +4,7 @@ Códigos das 3 APIs utilizadas por Kairo Emannoel e pelo Matheus Oliveira
 Bitminter:  https://bitminter.com/api <br/>
 API para monitoração constante do preço do Bitcoin <br/>
 Endpoint: "https://bitminter.com/api/pool/stats" <br/> 
-Suporta: GET v
+Suporta: GET <br/>
 <br/>
 <br/>
 IBGE: https://servicodados.ibge.gov.br/api/docs <br/>
